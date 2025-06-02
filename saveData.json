@@ -1,0 +1,1174 @@
+{
+  "1": {
+    "password": "1",
+    "color": "#27ae60",
+    "data": {
+      "level": 8,
+      "xp": 0,
+      "coins": 2800,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Sword",
+        "cost": 785,
+        "damageMultiplier": 1.05
+      },
+      "totalEnemiesKilled": 154,
+      "totalCoinsCollected": 1540,
+      "totalExpEarned": 3080
+    }
+  },
+  "Administrator": {
+    "password": "landex",
+    "color": "#27ae60",
+    "data": {
+      "level": 63,
+      "xp": 5876,
+      "coins": 25955,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Sword",
+        "cost": 785,
+        "damageMultiplier": 1.05
+      },
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 736,
+      "totalCoinsCollected": 7360,
+      "totalExpEarned": 14720
+    },
+    "class": "The Goliath"
+  },
+  "lagishere": {
+    "password": "hPD6cYyxHfEsXJm",
+    "color": "#3498db",
+    "data": {
+      "level": 33,
+      "xp": 1818,
+      "coins": 6380,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Sword",
+        "cost": 785,
+        "damageMultiplier": 1.05
+      },
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 88,
+      "totalCoinsCollected": 880,
+      "totalExpEarned": 1760
+    }
+  },
+  "Keegan": {
+    "password": "chung hei and klement tung",
+    "color": "#8e44ad",
+    "data": {
+      "level": 22,
+      "xp": 1757,
+      "coins": 11265,
+      "class": "Monarch",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Ryan Reynolds": {
+    "password": "arrow",
+    "color": "#f1c40f",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "God": {
+    "password": "12345671",
+    "color": "#ce9e12",
+    "data": {
+      "level": 99,
+      "xp": 4308,
+      "coins": 8555,
+      "class": "Summoner",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 48,
+      "totalCoinsCollected": 480,
+      "totalExpEarned": 960
+    },
+    "class": "Angel"
+  },
+  "Administrator 2": {
+    "password": "ZEROdungeon",
+    "color": "#27ae60",
+    "data": {
+      "level": 8,
+      "xp": 175,
+      "coins": 2815,
+      "class": "Angel",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 40,
+      "totalCoinsCollected": 400,
+      "totalExpEarned": 800
+    }
+  },
+  "Administrator 3": {
+    "password": "ONEdungeon",
+    "color": "#f1c40f",
+    "data": {
+      "level": 6,
+      "xp": 73,
+      "coins": 3425,
+      "class": "Angel",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 30,
+      "totalCoinsCollected": 300,
+      "totalExpEarned": 600
+    },
+    "class": "The Goliath"
+  },
+  "skibidi": {
+    "password": "secret",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Delan": {
+    "password": "18",
+    "color": "#27ae60",
+    "data": {
+      "level": 3,
+      "xp": 90,
+      "coins": 2475,
+      "class": "Summoner",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 21,
+      "totalCoinsCollected": 210,
+      "totalExpEarned": 420
+    }
+  },
+  "🤫🤔": {
+    "password": "sigma",
+    "color": "#f1c40f",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "🤫🤔✅": {
+    "password": "sigma",
+    "color": "#e74c3c",
+    "data": {
+      "level": 3,
+      "xp": 270,
+      "coins": 2605,
+      "class": "Monarch",
+      "weapon": null,
+      "ownedWeapons": [],
+      "totalEnemiesKilled": 30,
+      "totalCoinsCollected": 300,
+      "totalExpEarned": 600
+    }
+  },
+  "Sheran": {
+    "password": "19938",
+    "color": "#3498db",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Gogeta": {
+    "password": "landex2050",
+    "color": "#3498db",
+    "data": {
+      "level": 9,
+      "xp": 240,
+      "coins": 4505,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 210,
+      "totalCoinsCollected": 2100,
+      "totalExpEarned": 4200
+    }
+  },
+  "Guest": {
+    "password": "imalone",
+    "color": "#8e44ad",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "guest": {
+    "password": "imalsoalone",
+    "color": "#f1c40f",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Jojo": {
+    "password": "runt",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Tester2025": {
+    "password": "SigmaTester",
+    "color": "#8e44ad",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "IyoTenedorian": {
+    "password": "IYOISKOOL",
+    "color": "#e74c3c",
+    "data": {
+      "level": 9,
+      "xp": 460,
+      "coins": 2890,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Sword",
+        "cost": 785,
+        "damageMultiplier": 1.05
+      },
+      "totalEnemiesKilled": 221,
+      "totalCoinsCollected": 2210,
+      "totalExpEarned": 4420
+    }
+  },
+  "LazerKiwiGames": {
+    "password": "LazerGun123",
+    "color": "#3498db",
+    "data": {
+      "level": 27,
+      "xp": 1610,
+      "coins": 33315,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 2011,
+      "totalCoinsCollected": 20110,
+      "totalExpEarned": 40220
+    }
+  },
+  "Rip_Thunder16": {
+    "password": "metaknight16",
+    "color": "#27ae60",
+    "data": {
+      "level": 17,
+      "xp": 420,
+      "coins": 11690,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 769,
+      "totalCoinsCollected": 7690,
+      "totalExpEarned": 15380
+    }
+  },
+  "...": {
+    "password": "idk",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 40,
+      "coins": 2145,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 2,
+      "totalCoinsCollected": 20,
+      "totalExpEarned": 40
+    }
+  },
+  "jade": {
+    "password": "jade2021",
+    "color": "#e74c3c",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "CJBMX347": {
+    "password": "meybobmx3",
+    "color": "#27ae60",
+    "data": {
+      "level": 5,
+      "xp": 200,
+      "coins": 11695,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 65,
+      "totalCoinsCollected": 650,
+      "totalExpEarned": 1300
+    }
+  },
+  "urmum": {
+    "password": "coolguy21",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "RSE_Africanjeff": {
+    "password": "JonahTHM1234",
+    "color": "#27ae60",
+    "data": {
+      "level": 3,
+      "xp": 310,
+      "coins": 71545,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 32,
+      "totalCoinsCollected": 320,
+      "totalExpEarned": 640
+    }
+  },
+  "Skibidijonah": {
+    "password": "africa",
+    "color": "#f1c40f",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "BobMarley": {
+    "password": "bobmarley",
+    "color": "#8e44ad",
+    "data": {
+      "level": 6,
+      "xp": 50,
+      "coins": 102504,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 85,
+      "totalCoinsCollected": 850,
+      "totalExpEarned": 1700
+    }
+  },
+  "caso": {
+    "password": "caso",
+    "color": "#27ae60",
+    "data": {
+      "level": 14,
+      "xp": 10,
+      "coins": 8470,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 501,
+      "totalCoinsCollected": 5010,
+      "totalExpEarned": 10020
+    }
+  },
+  "Baxter": {
+    "password": "donttouck",
+    "color": "#3498db",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "advertisement": {
+    "password": "advertisement",
+    "color": "#3498db",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "YOU": {
+    "password": "THUMBNAIL",
+    "color": "#27ae60",
+    "data": {
+      "level": 3,
+      "xp": 270,
+      "coins": 2605,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 30,
+      "totalCoinsCollected": 300,
+      "totalExpEarned": 600
+    }
+  },
+  "Bw": {
+    "password": "Bw@me",
+    "color": "#3498db",
+    "data": {
+      "level": 27,
+      "xp": 190,
+      "coins": 31285,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 1940,
+      "totalCoinsCollected": 19400,
+      "totalExpEarned": 38800
+    }
+  },
+  "EllerslieSchoolCastOfficial": {
+    "password": "SchoolRulez",
+    "color": "#3498db",
+    "data": {
+      "level": 6,
+      "xp": 70,
+      "coins": 3505,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 86,
+      "totalCoinsCollected": 860,
+      "totalExpEarned": 1720
+    }
+  },
+  "˚♡Mia♡˚": {
+    "password": "16Sagewood",
+    "color": "#8e44ad",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Healer",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "★ 𝓹𝓱𝓪𝓷𝓽𝓸𝓶 ★": {
+    "password": "aefBu6uDnDX9Ui8",
+    "color": "#27ae60",
+    "data": {
+      "level": 19,
+      "xp": 130,
+      "coins": 14710,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 947,
+      "totalCoinsCollected": 9470,
+      "totalExpEarned": 18940
+    }
+  },
+  "𝓹𝓱𝓪𝓷𝓽𝓸𝓶": {
+    "password": "aefBu6uDnDX9Ui8",
+    "color": "#27ae60",
+    "data": {
+      "level": 4,
+      "xp": 360,
+      "coins": 2955,
+      "class": "The Goliath",
+      "weapon": null,
+      "totalEnemiesKilled": 51,
+      "totalCoinsCollected": 510,
+      "totalExpEarned": 1020
+    }
+  },
+  "𝓹𝓱𝓪𝓷𝓽𝓶": {
+    "password": "aefBu6uDnDX9Ui8",
+    "color": "#27ae60",
+    "data": {
+      "level": 2,
+      "xp": 110,
+      "coins": 2295,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 11,
+      "totalCoinsCollected": 110,
+      "totalExpEarned": 220
+    }
+  },
+  "-PureSkillz-": {
+    "password": "Heloo-Imlucas",
+    "color": "#27ae60",
+    "data": {
+      "level": 3,
+      "xp": 270,
+      "coins": 2605,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 30,
+      "totalCoinsCollected": 300,
+      "totalExpEarned": 600
+    }
+  },
+  "ILIKEDEEZNUTZ": {
+    "password": "ILIKEDEEZNUTZ",
+    "color": "#27ae60",
+    "data": {
+      "level": 26,
+      "xp": 290,
+      "coins": 29260,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 1802,
+      "totalCoinsCollected": 18020,
+      "totalExpEarned": 36040
+    }
+  },
+  "Hudson is Better": {
+    "password": "Sigma Staney",
+    "color": "#f1c40f",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Hudson Is Built Different": {
+    "password": "SIGMASTANLEY",
+    "color": "#f1c40f",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "finau": {
+    "password": "butchdog",
+    "color": "#27ae60",
+    "data": {
+      "level": 5,
+      "xp": 100,
+      "coins": 9067,
+      "class": "Summoner",
+      "weapon": null,
+      "totalEnemiesKilled": 60,
+      "totalCoinsCollected": 600,
+      "totalExpEarned": 1200
+    }
+  },
+  "y": {
+    "password": "y",
+    "color": "#27ae60",
+    "data": {
+      "level": 7,
+      "xp": 150,
+      "coins": 3115,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 123,
+      "totalCoinsCollected": 1230,
+      "totalExpEarned": 2460
+    }
+  },
+  "uabbem": {
+    "password": "Summer24$",
+    "color": "#3498db",
+    "data": {
+      "level": 6,
+      "xp": 150,
+      "coins": 2565,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 90,
+      "totalCoinsCollected": 900,
+      "totalExpEarned": 1800
+    }
+  },
+  "john": {
+    "password": "john",
+    "color": "#27ae60",
+    "data": {
+      "level": 15,
+      "xp": 1470,
+      "coins": 4485,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 90,
+      "totalCoinsCollected": 900,
+      "totalExpEarned": 1800
+    }
+  },
+  "ddrffgbdf": {
+    "password": "dvdertfdvdvrv",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "bhk kjhb": {
+    "password": "v jl ",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "zxmbxznb xz": {
+    "password": "nxmbzx zx",
+    "color": "#27ae60",
+    "data": {
+      "level": 3,
+      "xp": 270,
+      "coins": 2605,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 30,
+      "totalCoinsCollected": 300,
+      "totalExpEarned": 600
+    }
+  },
+  "ayesha": {
+    "password": "iwasthere1265",
+    "color": "#8e44ad",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "shadowknight79": {
+    "password": "dwight3581",
+    "color": "#f1c40f",
+    "data": {
+      "level": 12,
+      "xp": 720,
+      "coins": 7495,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 399,
+      "totalCoinsCollected": 3990,
+      "totalExpEarned": 7980
+    }
+  },
+  "dion the best man": {
+    "password": "fuck you",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "skibidi glock": {
+    "password": "hibye",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "skibidi glockk": {
+    "password": "byee",
+    "color": "#8e44ad",
+    "data": {
+      "level": 5,
+      "xp": 100,
+      "coins": 2300,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Sword",
+        "cost": 785,
+        "damageMultiplier": 1.05
+      },
+      "totalEnemiesKilled": 60,
+      "totalCoinsCollected": 600,
+      "totalExpEarned": 1200
+    }
+  },
+  "you": {
+    "password": "dion3170",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "wolfman31701": {
+    "password": "wolfman31709",
+    "color": "#f1c40f",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "JOHNNYBOI": {
+    "password": "b0iNk3r2",
+    "color": "#3498db",
+    "data": {
+      "level": 13,
+      "xp": 600,
+      "coins": 7710,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Sword",
+        "cost": 785,
+        "damageMultiplier": 1.05
+      },
+      "totalEnemiesKilled": 459,
+      "totalCoinsCollected": 4590,
+      "totalExpEarned": 9180
+    }
+  },
+  "Scott": {
+    "password": "01081303",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "noahthebest": {
+    "password": "2400",
+    "color": "#27ae60",
+    "data": {
+      "level": 19,
+      "xp": 1930,
+      "coins": 17775,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 1037,
+      "totalCoinsCollected": 10370,
+      "totalExpEarned": 20740
+    }
+  },
+  "sun Jin jansher": {
+    "password": "sunjindaddy",
+    "color": "#8e44ad",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "danntheman": {
+    "password": "dann3171",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Fred": {
+    "password": "Fred",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 20,
+      "coins": 2135,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 1,
+      "totalCoinsCollected": 10,
+      "totalExpEarned": 20
+    }
+  },
+  "sun Jansher woo": {
+    "password": "jindaddy",
+    "color": "#8e44ad",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "glockglock": {
+    "password": "glock glock",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "hii": {
+    "password": "hii",
+    "color": "#f1c40f",
+    "data": {
+      "level": 13,
+      "xp": 680,
+      "coins": 8575,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 463,
+      "totalCoinsCollected": 4630,
+      "totalExpEarned": 9260
+    }
+  },
+  "dion": {
+    "password": "joseph",
+    "color": "#f1c40f",
+    "data": {
+      "level": 8,
+      "xp": 60,
+      "coins": 2870,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 6990,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 157,
+      "totalCoinsCollected": 1570,
+      "totalExpEarned": 3140
+    }
+  },
+  "Ligma puppy umair": {
+    "password": "iwantdelantokissme",
+    "color": "#3498db",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Hamdan": {
+    "password": "Mdx22377",
+    "color": "#27ae60",
+    "data": {
+      "level": 9,
+      "xp": 260,
+      "coins": 12035,
+      "class": "Monarch",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 211,
+      "totalCoinsCollected": 2110,
+      "totalExpEarned": 4220
+    }
+  },
+  "rkp1234": {
+    "password": "happy123",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Baxter1": {
+    "password": "Bw123",
+    "color": "#3498db",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Monarch",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Vikas": {
+    "password": "Vikasuccessful@1",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Mr unknown": {
+    "password": "hurricane is to cool",
+    "color": "#e74c3c",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "sun Jin j": {
+    "password": "sun jin jansherr",
+    "color": "#8e44ad",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Sammyboy": {
+    "password": "Sammyboy",
+    "color": "#27ae60",
+    "data": {
+      "level": 1,
+      "xp": 0,
+      "coins": 2125,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 0,
+      "totalCoinsCollected": 0,
+      "totalExpEarned": 0
+    }
+  },
+  "Daniel": {
+    "password": "TheShadowMonarch",
+    "color": "#e74c3c",
+    "data": {
+      "level": 4,
+      "xp": 80,
+      "coins": 1735,
+      "class": "Summoner",
+      "weapon": {
+        "name": "Dagger",
+        "cost": 1000,
+        "damageMultiplier": 1.01,
+        "attackSpeedMultiplier": 1.1
+      },
+      "totalEnemiesKilled": 37,
+      "totalCoinsCollected": 370,
+      "totalExpEarned": 740
+    }
+  },
+  "dannj": {
+    "password": "1234567890",
+    "color": "#27ae60",
+    "data": {
+      "level": 4,
+      "xp": 160,
+      "coins": 750,
+      "class": "Fighter",
+      "weapon": null,
+      "totalEnemiesKilled": 41,
+      "totalCoinsCollected": 410,
+      "totalExpEarned": 820
+    }
+  }
+}

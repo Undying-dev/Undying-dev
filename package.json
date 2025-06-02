@@ -1,0 +1,26 @@
+{
+  "name": "17-leveling-game",
+  "version": "1.0.0",
+  "description": "Ultimate Multiplayer Dungeon Game with Chat, Login, and Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "game",
+    "multiplayer",
+    "dungeon",
+    "socket.io",
+    "express",
+    "chat"
+  ],
+  "author": "Delan Fernando, Cooper Metson",
+  "license": "MIT"
+}
